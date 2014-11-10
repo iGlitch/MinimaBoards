@@ -1,0 +1,43 @@
+body {
+   font: 10pt arial, sans-serif;
+   padding: 10px;
+}
+
+dl.postlist {
+   list-style-type: none;
+}
+
+dl.postlist dt {
+   font-size: 9pt;
+   font-style: italic;
+}
+
+dl.postlist dd {
+   max-width: 50em;
+   border: 1px solid #000;
+   padding: 0.5em 0.5em 0.5em 0.5em;
+   margin: 5px 0 20px 0;
+}
+
+td.formcaption {
+   font-size: 10pt;
+}
+
+table.threadlist {
+   font-size: 10pt;   
+}
+
+table.userlist {
+   font-size: 10pt;   
+}
+
+span.subject {
+   font-size: 10pt;
+   font-style: normal;
+   font-weight: bold;
+}
+
+span.name {
+   font-weight: bold;
+   font-style: normal;
+}
